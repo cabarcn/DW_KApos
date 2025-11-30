@@ -40,7 +40,7 @@ DW_KApos/
 
 🧱 Esquema del Data Warehouse
 
-![alt text](image.png)
+![Diagrama estrella DW KApos](docs/img/dw_kapos_star_schema.png)
 
 📈 Métricas principales (KPIs)
 
