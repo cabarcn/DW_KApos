@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.log
+
+# Datos CSV sintéticos
+data/*.csv
+
+# Configuraciones locales
+*.ini
+*.db
+*.sqlite
+*.DS_Store
+
+# Archivos de conexión (si existieran)
+connection.json
+secrets.json

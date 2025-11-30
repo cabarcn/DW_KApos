@@ -1,0 +1,4 @@
+captador_id,nombre_captador,canal,tipo_captacion,campania,fecha_inicio_campania
+1,Juan Perez,Calle,Directa,Campaña 1,2022-01-01
+2,Carlos Diaz,Web,Digital,Campaña 2,2023-05-01
+3,Ana Lopez,Call Center,Telefonica,Campaña 3,2023-10-01

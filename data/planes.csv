@@ -1,0 +1,4 @@
+plan_id,nombre_plan,monto_mensual,periodicidad,tipo_plan
+1,Basico,5000,mensual,clasico
+2,Premium,10000,mensual,oro
+3,Donador,12000,mensual,solidario

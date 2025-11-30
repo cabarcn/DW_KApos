@@ -1,0 +1,6 @@
+payment_id,subscription_id,fecha_pago,monto_intentado,monto_pagado,estado_pago,metodo_pago
+1,101,2024-01-05,5000,5000,OK,PAC
+2,101,2024-02-05,5000,5000,OK,PAC
+3,102,2024-02-15,10000,0,FAIL,TC
+4,103,2024-03-10,5000,5000,OK,PAC
+5,104,2024-03-08,12000,12000,OK,Transferencia

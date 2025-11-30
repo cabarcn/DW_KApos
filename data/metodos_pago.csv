@@ -1,0 +1,4 @@
+metodopago_id,tipo_metodo,entidad_bancaria,categoria
+1,PAC,BancoEstado,Débito
+2,TC,Santander,Crédito
+3,Transferencia,Banco Chile,Transf

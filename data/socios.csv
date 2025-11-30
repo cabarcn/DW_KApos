@@ -1,0 +1,5 @@
+socio_id,rut,genero,edad,comuna,fecha_ingreso,estado
+1,11111111-1,M,34,Santiago,2022-03-10,activo
+2,22222222-2,F,28,Maipu,2021-06-15,activo
+3,33333333-3,M,45,Puente Alto,2020-01-20,activo
+4,44444444-4,F,52,La Florida,2023-02-18,suspendido

@@ -1,0 +1,4 @@
+-- Crear esquemas para el Data Warehouse KApos
+CREATE SCHEMA IF NOT EXISTS stg;
+CREATE SCHEMA IF NOT EXISTS dw;
+CREATE SCHEMA IF NOT EXISTS meta;
